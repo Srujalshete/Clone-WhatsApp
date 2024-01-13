@@ -1,5 +1,5 @@
 **ChatWave - MERN Stack WhatsApp Clone with Socket.io Developed By Srujal Shete**
-
+![web-whatsapp-com-1-1](https://github.com/Srujalshete/Clone-WhatsApp/assets/67551839/6a300221-2eae-497d-8278-f718be8c78d3)
 ChatWave is a cutting-edge, real-time messaging application inspired by WhatsApp, built with the powerful MERN stack—MongoDB, Express.js, React.js, and Node.js—augmented with Socket.io for seamless, instant communication.
 
 **Key Features:**
@@ -23,8 +23,7 @@ ChatWave is a cutting-edge, real-time messaging application inspired by WhatsApp
    - Crafted with React.js, the frontend delivers a responsive and engaging interface. Users can seamlessly switch between chats, access multimedia, and experience a visually appealing design.
 
 7. **Secure and Private:**
-   - Prioritizing![web-whatsapp-com-1-1](https://github.com/Srujalshete/Clone-WhatsApp/assets/67551839/6a300221-2eae-497d-8278-f718be8c78d3)
- user privacy, ChatWave ensures secure communication with end-to-end encryption. Rest easy knowing that your messages and multimedia content are protected.
+   - Prioritizing user privacy, ChatWave ensures secure communication with end-to-end encryption. Rest easy knowing that your messages and multimedia content are protected.
 
 8. **Easy Deployment:**
    - Developed with scalability in mind, deploying ChatWave is straightforward. Whether for personal use or for a large user base, the application can be easily deployed to meet diverse needs.
